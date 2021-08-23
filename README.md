@@ -1,4 +1,5 @@
 ### Olá, me chamo André Gomes🤓
+<hr>
 
  <div>
   <a href="https://github.com/Andre-gomes-dev">

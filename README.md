@@ -31,7 +31,7 @@
  </div> 
 
 
-<img src="https://komarev.com/ghpvc/?username=Andre-gomes-dev&color=green" alt="Andre-gomes-dev" /> 
+
 
 
 

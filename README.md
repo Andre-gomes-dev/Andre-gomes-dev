@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-gomes-dev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-<<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
  
 
   <img align="right" alt="Andre-lifeIsCode" src="https://c.tenor.com/Lzr7afFB7xUAAAAM/microsoft-hackathon-hackathon.gif">

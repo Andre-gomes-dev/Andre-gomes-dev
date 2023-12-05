@@ -1,4 +1,4 @@
-### Olá, me chamo André Gomes🤓
+### hi, i'm André Gomes😁
 # about me:
 <p>🫶🏻👨‍💻development code</p>
 <p>📖read books </p>

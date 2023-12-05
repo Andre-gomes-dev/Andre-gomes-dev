@@ -1,9 +1,12 @@
 ### Olá, me chamo André Gomes🤓
 about me:
-development code
-read books
-play games
-create lore stories.
+<p>development code</p>
+<p>read books </p>
+<p>play games </p>
+<p>create lore stories. </p>
+
+
+
 
 
 

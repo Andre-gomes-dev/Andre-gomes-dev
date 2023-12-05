@@ -20,26 +20,9 @@
  *  <p>🎨bootstrap</p>
  *  <p>📦docker</p>
    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <hr>
-
  <div>
   <a href="https://github.com/Andre-gomes-dev">
- 
-
 </div>
  
 

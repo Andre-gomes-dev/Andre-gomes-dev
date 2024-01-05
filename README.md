@@ -5,7 +5,6 @@
 <p>🎮play games </p>
 <p>✍️create lore stories. </p>
 </div>
-  <img align="right" alt="Andre-lifeIsCode" src="https://c.tenor.com/Lzr7afFB7xUAAAAM/microsoft-hackathon-hackathon.gif">
   <img align="right" alt="bonfireTest" src="https://steamuserimages-a.akamaihd.net/ugc/1057730514123101626/C294AAC7AA3123748D598C3A16D07AEAAAD846C0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 # main Tec skills
 

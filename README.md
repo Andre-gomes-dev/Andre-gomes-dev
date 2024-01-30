@@ -6,6 +6,7 @@
 <p>✍️create lore stories. </p>
 </div>
   <img align="right" alt="Andre-lifeIsCode" src="https://c.tenor.com/Lzr7afFB7xUAAAAM/microsoft-hackathon-hackathon.gif">
+
 # main Tec skills
 
  *  <p>☕Java 8 & 11</p>
